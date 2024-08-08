@@ -6,7 +6,7 @@ Pull the repo, then run with the following command in a terminal:<br>
 The API should be started on localhost on port 8080
 ## Auth
 All endpoints are secured using spring boot security, using basic auth.<br>
-Currently the username and password is both set to admin, changeable in application.properties
+Currently the username is set to user and password is set to password, changeable in application.properties
 ## Endpoints
 When launched, swagger docs can be viewed at http://localhost:8080/swagger-ui/index.html
 ### Employees
