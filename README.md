@@ -5,6 +5,7 @@ Pull the repo, then run with the following command in a terminal:<br>
 ./gradlew bootRun<br>
 The API should be started on localhost on port 8080
 ## Endpoints
+When launched, swagger docs can be viewed at http://localhost:8080/swagger-ui/index.html
 ### Employees
 - /employees GET
 - /employees/{id} GET
