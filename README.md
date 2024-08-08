@@ -1,6 +1,7 @@
 ##   miniproject-employee-system
-This repo is a mini project coded for an interview.
+This repo is a mini project coded for an interview. Java version used is Java 22
 ## How to run
+Ensure Java 22 is installed first<br>
 Pull the repo, then run with the following command in a terminal:<br>
 ./gradlew bootRun<br>
 The API should be started on localhost on port 8080
